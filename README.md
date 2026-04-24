@@ -1,6 +1,6 @@
 #  Application web de films
 
-> Projet réalisé en 2024 à **Supinfo Paris**
+> Projet réalisé en 2025 à **Supinfo Paris**
 
 ##  Description
 
